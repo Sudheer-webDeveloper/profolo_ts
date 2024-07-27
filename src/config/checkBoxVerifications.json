@@ -1,0 +1,8 @@
+[
+    { "label": "Email Verification", "name": "email_verification", "isOrg": false },
+    { "label": "Add Company Info", "name": "company_info", "isOrg": true },
+    { "label": "Share tech stack", "name": "tech_stack", "isOrg": true },
+    { "label": "Invite Co Workers", "name": "co_workers", "isOrg": false },
+    { "label": "Post a Job", "name": "post_job", "isOrg": true }
+  ]
+  

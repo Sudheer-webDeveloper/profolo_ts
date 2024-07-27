@@ -1,0 +1,94 @@
+[
+    {
+      "id": "JB561",
+      "job": "UX Designer",
+      "status": "Active",
+      "postedBy": { "name": "Sindhu", "initials": "SI" },
+      "postedOn": "25/06/24",
+      "views": 32,
+      "clicks": 9
+    },
+    {
+      "id": "JB562",
+      "job": "Network Administrator",
+      "status": "Pending",
+      "postedBy": { "name": "Gaurav", "initials": "GA" },
+      "postedOn": "24/06/24",
+      "views": 10,
+      "clicks": 6
+    },
+    {
+      "id": "JB570",
+      "job": "UX Designer",
+      "status": "Active",
+      "postedBy": { "name": "Sindhu", "initials": "SI" },
+      "postedOn": "25/06/24",
+      "views": 12,
+      "clicks": 9
+    },
+    {
+      "id": "JB569",
+      "job": "Network Administrator",
+      "status": "Pending",
+      "postedBy": { "name": "Gaurav", "initials": "GA" },
+      "postedOn": "24/06/24",
+      "views": 38,
+      "clicks": 6
+    },
+    {
+      "id": "JB564",
+      "job": "UX Designer",
+      "status": "Active",
+      "postedBy": { "name": "Sindhu", "initials": "SI" },
+      "postedOn": "25/06/24",
+      "views": 52,
+      "clicks": 9
+    },
+    {
+      "id": "JB597",
+      "job": "Network Administrator",
+      "status": "Pending",
+      "postedBy": { "name": "Gaurav", "initials": "GA" },
+      "postedOn": "24/06/24",
+      "views":28,
+      "clicks": 6
+    },
+    {
+      "id": "JB598",
+      "job": "UX Designer",
+      "status": "Active",
+      "postedBy": { "name": "Sindhu", "initials": "SI" },
+      "postedOn": "25/06/24",
+      "views": 30,
+      "clicks": 9
+    },
+    {
+      "id": "JB599",
+      "job": "Network Administrator",
+      "status": "Pending",
+      "postedBy": { "name": "Gaurav", "initials": "GA" },
+      "postedOn": "24/06/24",
+      "views": 58,
+      "clicks": 6
+    },
+    {
+      "id": "JB564",
+      "job": "UX Designer",
+      "status": "Active",
+      "postedBy": { "name": "Sindhu", "initials": "SI" },
+      "postedOn": "25/06/24",
+      "views": 88,
+      "clicks": 9
+    },
+    {
+      "id": "JB542",
+      "job": "Network Administrator",
+      "status": "Pending",
+      "postedBy": { "name": "Gaurav", "initials": "GA" },
+      "postedOn": "24/06/24",
+      "views": 98,
+      "clicks": 6
+    }
+
+  ]
+  

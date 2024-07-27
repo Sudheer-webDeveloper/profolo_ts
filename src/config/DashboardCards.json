@@ -1,0 +1,30 @@
+[
+    {
+      "label": "Total Views",
+      "count": "43",
+      "percentage": "7.5%",
+      "inDays": "7",
+      "icon": "CalendarBlank",
+      "bg": "rgba(0, 152, 207, 0.16)",
+      "color": "#0098CF"
+    },
+    {
+      "label": "Total Applied",
+      "count": "24",
+      "percentage": "3.45%",
+      "inDays": "7",
+      "icon": "Users",
+      "bg": "rgba(244, 155, 0, 0.25)",
+      "color": "#F49B00"
+    },
+    {
+      "label": "Hired",
+      "count": "2",
+      "percentage": "7.5%",
+      "inDays": "7",
+      "icon": "Wallet",
+      "bg": "rgba(36, 170, 20, 0.24)",
+      "color": "#3CA654"
+    }
+  ]
+  

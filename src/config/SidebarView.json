@@ -1,0 +1,25 @@
+
+
+[
+    {
+      "label": "Home",
+      "icon": "GoHomeFill",
+      "href": "/"
+    },
+    {
+      "label": "Jobs",
+      "icon": "IoBag",
+      "href": "/jobs"
+    },
+    {
+      "label": "Candidates",
+      "icon": "IoPeopleSharp",
+      "href": "/candidates"
+    },
+    {
+      "label": "Chat",
+      "icon": "IoChatbubbleEllipsesOutline",
+      "href": "/chat"
+    }
+  ]
+  

@@ -1,0 +1,20 @@
+
+
+[
+    {
+      "img": "wta.png",
+      "company_name": "wipro",
+      "desc": "design tech"
+    },
+    {
+      "img": "wta.png",
+      "company_name": "WTA",
+      "desc": "Service tech"
+    },
+    {
+      "img": "wta.png",
+      "company_name": "facebook",
+      "desc": "social media tech"
+    }
+  ]
+  
